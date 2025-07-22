@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Minimal Clock New Tab",
+  "version": "0.1.0",
+  "description": "A simple new tab page with a clock in HH:MM or HH:MM:SS format on a black background",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [],
+  "icons": {
+    "128": "icon.png"
+  }
+}
